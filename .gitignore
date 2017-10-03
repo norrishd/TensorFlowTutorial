@@ -1,1 +1,5 @@
+# Jupyter notebook checkpoint data
 /.ipynb_checkpoints/
+
+# MNIST dataset
+/MNIST_data/
